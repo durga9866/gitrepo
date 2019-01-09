@@ -1,3 +1,6 @@
 hi how r u
+<<<<<<< HEAD
 hello
+=======
+>>>>>>> 88228a9... 3.txt is modified in r1
 hello every one
